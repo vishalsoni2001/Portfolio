@@ -9,7 +9,10 @@ body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1rem;
     color: #f0f8ff;
+    
 }
+.glow { text-shadow: 0 0 50px #ff0000;
+    color:#fff }
 header{
     margin-top: 35px;
 }
